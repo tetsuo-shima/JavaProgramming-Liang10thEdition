@@ -1,4 +1,4 @@
-package com.dfrancis.JavaProgrammingLiang10thEdition.C01P02;
+package org.dfrancis.JavaProgrammingLiang10thEdition.C01P02;
 
 public class C01P02 {
 
